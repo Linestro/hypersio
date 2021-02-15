@@ -27,7 +27,7 @@ SIOPERF_RUN_LOG_DIR = os.path.join(BUILD_DIR, "perf_logs")
 ###############################################################################
 # VM Config
 ##############################################################################
-DEFAULT_ISO         = "ubuntu-18.04.4-live-server-amd64.iso"
+DEFAULT_ISO         = "ubuntu-18.04.5-live-server-amd64.iso"
 DEFAULT_FWD_PORT    = 10024
 
 # Client parameters
